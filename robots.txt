@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaisoowey.inigoacedo.com/sitemap.xml
